@@ -1,0 +1,24 @@
+From 3d6ffde3ada80009c38ae97f8f069193b7bfd2e8 Mon Sep 17 00:00:00 2001
+From: Akshaya7845 <akshaya.murugan@psiog.com>
+Date: Fri, 26 Sep 2025 09:21:42 +0530
+Subject: [PATCH 2/3] new branch1
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 66a39da..30a54ec 100644
+--- a/index.html
++++ b/index.html
+@@ -11,6 +11,7 @@
+   <section>
+     <h2>About Me</h2>
+     <p>This is a little about me section.</p>
++    <p>branh1</p>
+   </section>
+ </body> 
+ </html> 
+-- 
+2.50.1.windows.1
+
